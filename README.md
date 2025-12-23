@@ -48,7 +48,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/arieltsdjn/arieltsdjn/output/snake.svg" alt="Snake animation" />
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
