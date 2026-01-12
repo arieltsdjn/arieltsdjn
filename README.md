@@ -16,7 +16,7 @@
 
 ###
 
-<h4 align="left">- LiteraTools App: Student learning tools to improve and monitor literacy through Learning Timer, AI Helper, Latest News Articles, History, and Simple Mini Games. (🥈Winning 2nd place at the district level in the 2024 Student Innovation Competition in Mamuju, West Sulawesi).<br><br>- UjianPro Tools: A browser-based exam platform with highly secure and anti-cheating features, utilizing AI to monitor and check for cheating during the exam. (⭐Used as a National Exam application at the UPTD SMAN 1 Kalukku in 2025).<br><br>- BelajarPro App: A student learning support tool that combines the superior features of LiteraTools and UjianPro into one app.<br><br>- Login/Sign Up UI with clean and minimalist design (One of the Most Liked Project on Sketchub).<br><br>..and much more.</h4>
+<h4 align="left">- LiteraTools App: Student learning tools to improve and monitor literacy through Learning Timer, AI Helper, Latest News Articles, History, and Simple Mini Games. (🥈Winning 2nd place at the district level in the 2024 Student Innovation Competition in Mamuju, West Sulawesi).<br><br>- UjianPro Tools: A browser-based exam platform with highly secure and anti-cheating features, utilizing AI to monitor and check for cheating during the exam. (⭐Used as a National Exam application at the UPTD SMAN 1 Kalukku in 2025).<br><br>- BelajarPro App: A student learning support tool that combines the superior features of LiteraTools and UjianPro into one app.<br><br>- Binary Translator: Convert text to binary and vice versa<br><br>- Login/Sign Up UI with clean and minimalist design (One of the Most Liked Project on Sketchub).<br><br>..and much more.</h4>
 
 ###
 
